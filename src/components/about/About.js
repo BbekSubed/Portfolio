@@ -25,16 +25,19 @@ const About = () => {
           <article className='about__card'>
           <FiUsers className='about__icon'/>
             <h5>Clients</h5>
-            <small>200+ Worldwide</small>
+            <small>20+ Worldwide</small>
           </article>
           <article className='about__card'>
           <VscFolderLibrary className='about__icon'/>
            <h5>Projects</h5>  
-          <small>100+ Completed</small>
+          <small>10+ Completed</small>
 
           </article>
         </div>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae tempora atque distinctio at nam beatae perferendis, nemo, aspernatur provident dolorum fugiat ea blanditiis molestiae magnam ratione sequi, cupiditate officia qui.</p>
+        <p>Hello, Namaste ,My name is Bibek Subedi . I'm currently working as a Software Engineer / Sr. Designer at Conital, which is also a software firm that I founded along with few of my college mates.
+Because of my academics right now, I am a half-day university undergrad & a half-day computer programmer & I get to spend half of my day at college and rest of the day at my office at Birtamode.
+Since the day I started deep-diving in overall software development,
+I've chosen web platform as my contemporary platform that is lovely to learn, easy to use, and fairly simple to maintain..</p>
       <a href="#contact" className='btn btn-primary'>Let's Talk</a>
       </div>
       </div>

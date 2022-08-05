@@ -18,7 +18,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Clinic Management Software</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className='btn'>Github</a>
           <a href="https://www.okdam.com/" className='btn btn-primary' target='_blank'>Live Demo</a></div>
@@ -28,7 +28,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Hotel Management Software</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className='btn'>Github</a>
           <a href="https://www.okdam.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -39,7 +39,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>College Management Software</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com" className='btn'>Github</a>
           <a href="https://www.okdam.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -50,7 +50,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG4} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>E-commerce Website</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com" className='btn'>Github</a>
           <a href="https://www.okdam.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -61,7 +61,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG5} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Weather-Update Website</h3>
          
           <div className="portfolio__item-cta"> <a href="https://github.com" className='btn'>Github</a>
           <a href="https://www.okdam.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -71,7 +71,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG6} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Portfolio Website</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com" className='btn'>Github</a>
           <a href="https://www.okdam.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
